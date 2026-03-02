@@ -45,11 +45,12 @@ The objective is to clean the dataset, handle missing values effectively, and ge
 
 ---
 ## 📂 Repository Structure
+```
 streaming-platform-eda/
 │
 ├── ANK_Sample_EDA_Submission_Template.ipynb   # Main EDA Notebook
 ├── README.md                                  # Project Documentation
-
+``
  ---
 
 ## 👤 Author
